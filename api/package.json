@@ -22,7 +22,7 @@
     "@types/cors": "^2.8.9",
     "@types/express": "^4.17.9",
     "@types/yargs": "^16.0.1",
-    "api": "^4.2.0",
+    "api": "^5.0.0",
     "better-sqlite3": "^7.5.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
