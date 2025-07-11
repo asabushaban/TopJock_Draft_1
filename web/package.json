@@ -24,7 +24,7 @@
     "analytics": "^0.8.0",
     "api": "^4.2.0",
     "autoprefixer": "^10.4.2",
-    "better-sqlite3": "^7.5.0",
+    "better-sqlite3": "^7.5.3",
     "knex": "^1.0.2",
     "next": "^12.1.0",
     "postcss": "^8.4.8",
